@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 [![Dev.To](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/robertsolomon12)
 
 
-## GitHub Stats
+## GitHub Stats:
 
 ![Robert's Github stats](https://github-readme-stats.vercel.app/api?username=robert-solomon12&count_private=true&theme=vue-dark)
