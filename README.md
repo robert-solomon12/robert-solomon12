@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 ## 🔭 I’m currently working on my Final Year.
-## 💬 I’m currently learning C, C++
+## 💬 I’m currently learning C
 
 
 
