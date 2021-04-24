@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi 👋, I'm Robert
+# Hi 👋🏾, I'm Robert
 
 ## Connect with me!
 
