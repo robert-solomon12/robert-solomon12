@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 ## GitHub Stats:
 
 ![Robert's Github stats](https://github-readme-stats.vercel.app/api?username=robert-solomon12&anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robert-solomon12)](https://github.com/robert-solomon12/github-readme-stats)
