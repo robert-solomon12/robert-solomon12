@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 ## GitHub Stats:
 
-![Robert's Github stats](https://github-readme-stats.vercel.app/api?username=robert-solomon12&count_private=true&theme=vue-dark)
+![Robert's Github stats](https://github-readme-stats.vercel.app/api?username=robert-solomon12&anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark)
