@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/1184758673)
 
 
-## 🔭 I’m currently working on my Final Year.
-## 💬 I’m currently learning C
+## 🔭 I’m currently working on completing my Final Year.
+## 💬 I’m currently learning C.
 
 
 
