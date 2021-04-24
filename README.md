@@ -3,8 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on my Final Year.
+- 🌱 I’m currently learning C, C++
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -21,7 +21,10 @@ Here are some ideas to get you started:
 [![Dev.To](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/robertsolomon12)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/1184758673)
 
-## GitHub Stats:
+
+## 🔭 I’m currently working on my Final Year.
+## 💬 I’m currently learning C, C++
+
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -32,7 +35,3 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=robert-solomon12&layout=compact&theme=chartreuse-dark" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=robert-solomon12&repo=github-readme-stats&theme=chartreuse-dark" />
-</a>
