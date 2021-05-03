@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 
-## Connect with me! 👋
+## Connect with me! <img src="IMG/hand-wave.png" width="20" height="20" alt="wave"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-solomon12/)
 [![Dev.To](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/robertsolomon12)
