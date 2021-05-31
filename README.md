@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 
 
 ## 🔭 I’m currently working on completing my Final Year.
-- ## 💬 I’m currently learning C.
-
+<!--
+ 💬 I’m currently learning C.
+-->
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
