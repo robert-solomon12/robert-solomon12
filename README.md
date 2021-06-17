@@ -21,10 +21,7 @@ Here are some ideas to get you started:
 [![Dev.To](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/robertsolomon12)
 
 
-## 🔭 I’m currently working on completing my Final Year.
-<!--
- 💬 I’m currently learning C.
--->
+
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
