@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![Dev.To](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/robertsolomon12)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/1184758673)
 
-## BSc. (Hons.) Applied Computing - Internet of Things Graduate
+## BSc. (Hons.) Internet of Things Graduate
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
