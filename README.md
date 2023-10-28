@@ -19,6 +19,11 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-solomon12/)
 [![Dev.To](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/robertsolomon12)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=m3talliz3d&label=Profile%20views&color=f5d184&style=flat" alt="m3talliz3d" /> </p>
+
+<p align="center"><img src="https://github.com/robert-solomon12/robert-solomon12/assets/35696882/de99e254-6f43-494e-a438-a55fe2c6aa78" width="300" 
+     height="300" /></p>
+
 
 ## MSc. Student - Data Science at Data Science Institute, Woolf University.
 ## BSc. (Hons.) Holder - Computer Science in the Internet of Things, Automobile/Automotive Mechanics Technology at SETU.
