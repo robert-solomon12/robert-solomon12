@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-solomon12/)
 [![Dev.To](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/robertsolomon12)
 
-## MSc. Student, Data Science
+## MSc. Student - Data Science
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
