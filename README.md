@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m3talliz3d&label=Profile%20views&color=f5d184&style=flat" alt="m3talliz3d" /> </p>
 
 ## MSc. Student - Data Science at Data Science Institute, Woolf University.
-## BSc. (Hons.) Holder - Computer Science in the Internet of Things, Automobile/Automotive Mechanics Technology at SETU.
+## BSc. (Hons.) - Computer Science in the Internet of Things, Automobile/Automotive Mechanics Technology Graduate at SETU.
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
