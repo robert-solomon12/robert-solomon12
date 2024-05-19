@@ -49,8 +49,24 @@ Here are some ideas to get you started:
   <img src="https://github.com/robert-solomon12/robert-solomon12/assets/35696882/1d97a44b-65e0-4fa7-9f3f-5741390966cf" width="33%" />
 </p>
 
-<!--
+  <!-- 
 <p float="left">
 <img src="https://github.com/robert-solomon12/robert-solomon12/assets/35696882/e6e657b8-1855-4911-90ad-f9ce486f0733" width="50%" />
 <img src="https://github.com/robert-solomon12/robert-solomon12/assets/35696882/484d98d1-68da-4a20-a9f5-7b1b7efc57d0" width="49%" />
-</p> -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audio Test</title>
+</head>
+<body>
+    <h1>Enjoy some music while you're here.</h1>
+    <audio autoplay>
+        <source src="assets/akiaura - sleepwalker-(slowed).mp3" type="audio/mpeg">
+    </audio>
+</body>
+</html>
+-->
