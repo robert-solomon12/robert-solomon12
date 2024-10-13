@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Hi <img src="IMG/hand-wave.png" width="20" height="20" alt="wave"/> I'm Robert Solomon, connect with me!
 
 ## MSc. Student - Data Science at Data Science Institute, Woolf University.
-## Postgraduate Diploma Level 9 Graduate in Data Science at the Data Science Institute, Woolf University.
+## Postgraduate MSc. Diploma Level 9 Graduate in Data Science at the Data Science Institute, Woolf University.
 ## BSc. (Hons.) - Computer Science in the Internet of Things, Automobile/Automotive Mechanics Technology Graduate at SETU (South Eastern Technological University).
 
 
